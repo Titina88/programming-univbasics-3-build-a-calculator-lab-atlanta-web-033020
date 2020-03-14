@@ -18,3 +18,12 @@ def multiplication(num1, num2)
   mul
 end
 
+def modulo(num1, num2)
+  mod = num2 % num1
+
+  end
+
+def square_root(num)
+  sq = num*
+  
+end
