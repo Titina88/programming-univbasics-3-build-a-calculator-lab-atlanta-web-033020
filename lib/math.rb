@@ -20,10 +20,10 @@ end
 
 def modulo(num1, num2)
   mod = num2 % num1
-  mod
+  puts mod
   end
 
 def square_root(num)
   sq = num*
-  sq
+  puts sq
 end
